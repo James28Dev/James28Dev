@@ -1,39 +1,169 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanaphat Suwancharoen
-==============================================================================================================================================
+<br clear="both">
 
-Student Computer Science | Songkhla Rajabhat University
--------------------------------------------------------
+<h3 align="center">ยินดีต้อนรับเข้าสู่ GitHub</h3>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อนายธนพัต สุวรรณเจริญ</h1>
 
-I've been interested in programming since 2015 and started seriously studying it in 2018. I started with HTML, but now I really enjoy programming in C, Java, Dart or Python. MySQL and Arduino are fun too.
+###
 
-* 🌍  I'm based in Thailand.
-* ✉️  You can contact me at [James28.Dev@gmail.com](mailto:James28.Dev@gmail.com)
-* 🚀  I'm currently working on [Healthy Cal](http://www.figma.com/proto/zjDdY3eHHT2yOwAoxEI1cy/Healthy-Cal?node-id=511-2980&starting-point-node-id=511%3A2985)
-* 🧠  I'm learning a new c++ to create games on Unity.
+<h2 align="left">🧑‍💻 About Me:</h2>
 
-<a href="https://www.github.com/James28Dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/James28Dev?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
+###
 
-### Skills
+<br clear="both">
+
+<p align="left">ผมสนใจการเขียนโปรแกรมตั้งแต่ปี พ.ศ. 2558 และเริ่มศึกษาอย่างจริงจังในปี พ.ศ. 2561 โดยเริ่มต้นจาก HTML เป็นภาษาแรก<br><br>- 🎓 ผมเป็นนักศึกษาสาขาวิทยาการคอมพิวเตอร์ | คณะวิทยาศาสตร์และเทคโนโลยี | มหาวิทยาลัยราชภัฎสงขลา  <br>- 🛠️ เคยฝึกงานที่ร้านไนน์ตี้ไนน์คอมแอนด์ไอทีเซอร์วิสสะเดา 3 เดือน | บริษัท บ้านคอมพิวเตอร์ แอดวานซ์ เซอร์วิส จำกัด 3 เดือน<br>- 💡 สนใจผลิตโปรแกรม Cross-Platform, Mobile application และ Games</p>
+
+###
+
+<h2 align="left">🚀 Skills:</h2>
+
+###
+
+<h3 align="left">🔤 Languages:</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c&theme=light" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart&theme=light" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html&theme=light" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r&theme=light" height="40" alt="r logo"  />
+</div>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-</p>
+###
 
+<h3 align="left">📚 Frameworks & Libraries:</h3>
 
-### Socials
+###
 
-<p align="left"> <a href="https://www.facebook.com/earg0728" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/James28Dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/james._.su" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flask&theme=light" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter&theme=light" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express&theme=light" height="40" alt="express logo"  />
+  
+</div>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<h3 align="left">🗄️ Databases:</h3>
 
-<a href="http://www.github.com/James28Dev"><img src="https://github-readme-stats.vercel.app/api?username=James28Dev&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="James28Dev's GitHub stats" /></a>
+###
 
-<a href="https://github.com/James28Dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James28Dev&langs_count=10&title_color=facc15&text_color=ef4444&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="40" alt="mongodb logo"  />
+</div>
 
-<b>Top Repositories</b>
+###
 
-<div width="100%" align="center"><a href="https://github.com/James28Dev/Smart_Water_Temperature_Meter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=James28Dev&repo=Smart_Water_Temperature_Meter&title_color=facc15&text_color=ef4444&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/James28Dev/Calculate_Water_Bills" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=James28Dev&repo=Calculate_Water_Bills&title_color=facc15&text_color=ef4444&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<h3 align="left">🛠️ Tools & IDEs:</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git&theme=light" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=light" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd&theme=light" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<h3 align="left">🔌 Hardware & IoT:</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino&theme=light" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<h3 align="left">🐧 Operating Systems (Linux Distros):</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mint&theme=light" height="40" alt="mint logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Icon_manjaro_rounded_2022.svg" width="40" alt="Manjaro logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zorin_OS.svg/692px-Zorin_OS.svg.png?20220906213935" width="45" />
+
+</div>
+
+###
+
+<h3 align="left">📬 Contact:</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.facebook.com/earg0728" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/james._.su/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">📈 GitHub Stats:</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=james28dev&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=james28dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=james28dev&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=james28dev&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
