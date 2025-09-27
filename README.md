@@ -131,7 +131,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Icon_manjaro_rounded_2022.svg" width="40" alt="Manjaro logo"/>
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zorin_OS.svg/692px-Zorin_OS.svg.png?20220906213935" width="45" />
-
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
 </div>
 
 ###
