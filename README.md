@@ -158,7 +158,7 @@
 
 ###
 
-<h3 align="left">📬 Contact</h3>
+<h2 align="left">📬 Contact</h2>
 
 ###
 
@@ -176,7 +176,7 @@
 
 ###
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h2 align="left">📈 GitHub Stats</h2>
 
 ###
 
