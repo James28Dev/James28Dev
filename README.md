@@ -10,6 +10,16 @@
 - 🛠️ เคยฝึกงานที่ร้านไนน์ตี้ไนน์คอมแอนด์ไอทีเซอร์วิสสะเดา 3 เดือน | บริษัท บ้านคอมพิวเตอร์ แอดวานซ์ เซอร์วิส จำกัด 3 เดือน
 - 💡 สนใจผลิตโปรแกรม Cross-Platform, Mobile application และ Games
 
+## 🌱 Learning
+
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+&nbsp;
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+&nbsp;
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+&nbsp;
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+
 ## 🚀 Skills
 
 ### 🧩 Languages
