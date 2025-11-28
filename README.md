@@ -161,18 +161,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/earg0728)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/james._.su/)
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=james28dev&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=james28dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=james28dev&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=james28dev&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
