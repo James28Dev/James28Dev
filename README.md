@@ -38,9 +38,11 @@
   <a href="https://dart.dev/">
   <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart">
   </a>
+  &nbsp;&nbsp;
   <a href="https://flutter.dev/">
   <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
   </a>
@@ -49,9 +51,11 @@
   <!-- <a href="https://dart.dev/">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </a>
+  &nbsp;&nbsp;
   <a href="https://flutter.dev/">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"> -->
   </a>
@@ -62,30 +66,39 @@
   <h3>🧩 ภาษาโปรแกรมหลัก</h3>
 
   <img src="https://skillicons.dev/icons?i=c" width="45" alt="C">
+  &nbsp;&nbsp;
   <a href="https://isocpp.org/">
   <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++">
   </a>
+  &nbsp;&nbsp;
   <a href="https://oracle.com/java/">
   <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
   </a>
+  &nbsp;&nbsp;
   <a href="https://cran.r-project.org/">
   <img src="https://skillicons.dev/icons?i=r" width="45" alt="R">
   </a>
+  &nbsp;&nbsp;
   <a href="https://dart.dev/">
   <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart">
   </a>
+  &nbsp;&nbsp;
   <a href="https://html.spec.whatwg.org/multipage/">
   <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML">
   </a>
+  &nbsp;&nbsp;
   <a href="ttps://www.w3.org/Style/CSS/">
   <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS">
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript">
   </a>
+  &nbsp;&nbsp;
   <a href="https://mysql.com/">
   <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">
   </a>
