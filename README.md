@@ -1,7 +1,7 @@
 <h3 align="center">ยินดีต้อนรับเข้าสู่ GitHub</h3>
 <h1 align="center">สวัสดีครับ 👋 ผมชื่อนายธนพัต สุวรรณเจริญ</h1>
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 ข้อมูลเบื้องต้น:
 
 **ผมสนใจการเขียนโปรแกรมตั้งแต่ปี พ.ศ. 2558 และเริ่มศึกษาอย่างจริงจังในปี พ.ศ. 2561 โดยเริ่มต้นจาก HTML เป็นภาษาแรก**
 
@@ -10,19 +10,17 @@
 - 🛠️ เคยฝึกงานที่ร้านไนน์ตี้ไนน์คอมแอนด์ไอทีเซอร์วิสสะเดา 3 เดือน | บริษัท บ้านคอมพิวเตอร์ แอดวานซ์ เซอร์วิส จำกัด 3 เดือน
 - 💡 สนใจผลิตโปรแกรม Cross-Platform, Mobile application และ Games
 
-## 🌱 Learning
+## 🌱 ความสนใจหลัก
 
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 &nbsp;
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 &nbsp;
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-&nbsp;
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
-## 🚀 Skills
+## 🚀 ทักษะและความเชี่ยวชาญ
 
-### 🧩 Languages
+### 🧩 ภาษาโปรแกรมหลัก
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
 &nbsp;
@@ -44,7 +42,7 @@
 &nbsp;
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### 🕸️ Web Development
+### 🕸️ การพัฒนาเว็บ
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 &nbsp;
@@ -70,13 +68,13 @@
 &nbsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### 📱 Mobile Development
+### 📱 การพัฒนาแอปพลิเคชันมือถือ
 
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 &nbsp;
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
-### 📊 Data Science / AI
+### 📊 ปัญญาประดิษฐ์และข้อมูล
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 &nbsp;
@@ -94,13 +92,13 @@
 &nbsp;
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
-### 🎮 Game Development
+### 🎮 การพัฒนาเกม
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 &nbsp;
 [![Pygame](https://img.shields.io/badge/Pygame-ED1C24?style=for-the-badge&logo=pygame&logoColor=white)](https://www.pygame.org/)
 
-### 🐧 System
+### 🐧 ระบบปฏิบัติการและโครงสร้าง
 
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com/)
 &nbsp;
@@ -118,7 +116,7 @@
 &nbsp;
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/)
 
-### ⚙️ DevOps
+### ⚙️ การบริหารจัดการระบบและคลาวด์
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 &nbsp;
@@ -140,7 +138,7 @@
 &nbsp;
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
-### IoT / Embedded Systems ⚡
+### ⚡ อินเทอร์เน็ตของสรรพสิ่งและระบบสมฝังตัว
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 &nbsp;
@@ -148,7 +146,7 @@
 &nbsp;
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-### 🎨 Design / UI/UX
+### 🎨 การออกแบบประสบการณ์ผู้ใช้
 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 &nbsp;
@@ -156,8 +154,10 @@
 &nbsp;
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
-## 📬 Contact
+## 📬 ช่องทางการติดต่อ
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/earg0728)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/james._.su/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=James28Dev@gmail.com)
