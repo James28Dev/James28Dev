@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Welcome to my GitHub</h3>
-  <h1>👋 Hi, I'm Thanaphat Suwannacharoen</h1>
+  <h3>ยินดีต้อนรับเข้าสู่ GitHub</h3>
+  <h1>สวัสดีครับ 👋 ผมชื่อนายธนพัต สุวรรณเจริญ</h1>
 </div>
 
 <!-- Nav Language String -->
@@ -12,33 +12,25 @@
 
 <!-- Nav Language Shields -->
 <div align="right">
-  <a href="./README_TH.md"><img src="https://img.shields.io/badge/English-TH-blue?style=for-the-badge&logo=google-translate&logoColor=white" height="30" alt="Switch Languages"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-US-blue?style=for-the-badge&logo=google-translate&logoColor=white" height="30" alt="Switch Languages"></a>
 </div>
 
 <div align="left">
-  <h2>🧑‍💻 Profile Overview:</h2>
+  <h2>🧑‍💻 ข้อมูลเบื้องต้น:</h2>
   <p>
-  <strong>
-  My passion for programming sparked in 2015, and I began formally deep-diving into the world of code in 2018, starting with HTML as my foundational language.
-  </strong>
+    <strong>
+    ผมสนใจการเขียนโปรแกรมตั้งแต่ปี พ.ศ. 2558 และเริ่มศึกษาอย่างจริงจังในปี พ.ศ. 2561 โดยเริ่มต้นจาก HTML เป็นภาษาแรก
+    </strong>
 
-  <strong>🎓 Academic Background:</strong>
-  - Bachelor of Science in Computer Science, Songkhla Rajabhat University (SKRU).
-  - Vocational Certificate in Digital Business Technology, Songkhla Vocational College.
-
-  <strong>🛠️ Internship Experience:</strong>
-
-  - IT Support Intern at 99 Com and IT Service Sadao (3 months).
-  - System & Technical Intern at Baan Computer Advanced Service Co., Ltd. (3 months).
-
-  <strong>💡 Career Interests:</strong>
-
-  - Building Cross-Platform applications, Mobile App Development, and Game Design.
+  - 🎓 ผมเป็นนักศึกษาสาขาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยราชภัฎสงขลา
+  - 🎓 เคยศึกษาสาขาเทคโนโลยีธุรกิจดิจิทัล วิทยาลัยอาชีวศึกษาสงขลา
+  - 🛠️ เคยฝึกงานที่ร้านไนน์ตี้ไนน์คอมแอนด์ไอทีเซอร์วิสสะเดา 3 เดือน และบริษัทบ้านคอมพิวเตอร์แอดวานซ์เซอร์วิสจำกัด 3 เดือน
+  - 💡 สนใจผลิตโปรแกรม Cross-Platform, Mobile application และ Games
   </p>
 </div>
 
 <div align="left">
-  <h2>🌱 Core Interests:</h2>
+  <h2>🌱 ความสนใจหลัก:</h2>
 
   <!-- new icons -->
   <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart"></a>
@@ -57,8 +49,8 @@
 </dev>
 
 <div align="left">
-  <h2>🚀 Skills & Expertise:</h2>
-  <h3>🧩 Core Programming Languages:</h3>
+  <h2>🚀 ทักษะและความเชี่ยวชาญ:</h2>
+  <h3>🧩 ภาษาโปรแกรมหลัก</h3>
 
   <img src="https://skillicons.dev/icons?i=c" width="45" alt="C">
   &nbsp;&nbsp;
@@ -83,7 +75,7 @@
 
 
 <div align="left">
-  <h3>🕸️ Web Development:</h3>
+  <h3>🕸️ การพัฒนาเว็บ</h3>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"></a>
   &nbsp;&nbsp;
   <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://skillicons.dev/icons?i=flask" width="45" alt="Flask"></a>
@@ -112,14 +104,14 @@
 </div>
 
 <div align="left">
-  <h3>📱 Mobile Development:</h3>
+  <h3>📱 การพัฒนาแอปพลิเคชันมือถือ</h3>
   <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart"></a>
   &nbsp;&nbsp;
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter"></a>
 </div>
 
 <div align="left">
-  <h3>📊 AI & Data Science:</h3>
+  <h3>📊 ปัญญาประดิษฐ์และข้อมูล</h3>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"></a>
   &nbsp;&nbsp;
   <a href="https://cran.r-project.org/"><img src="https://skillicons.dev/icons?i=r" width="45" alt="R"></a>
@@ -136,7 +128,7 @@
 </div>
 
 <div align="left">
-  <h3>🐧 OS & Architecture:</h3>
+  <h3>🐧 ระบบปฏิบัติการและโครงสร้าง</h3>
   <a href="https://linuxmint.com/"><img src="https://skillicons.dev/icons?i=mint" width="45" alt="Linux Mint"></a>
   &nbsp;&nbsp;
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" width="45" alt="Ubuntu"></a>
@@ -157,7 +149,7 @@
 </div>
 
 <div align="left">
-  <h3>⚙️ System Administration & Cloud:</h3>
+  <h3>⚙️ การบริหารจัดการระบบและคลาวด์</h3>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"></a>
@@ -190,7 +182,7 @@
 </div>
 
 <div align="left">
-  <h3>⚡ Internet of Things (IoT) & Embedded Systems:</h3>
+  <h3>⚡ อินเทอร์เน็ตของสรรพสิ่งและระบบสมฝังตัว</h3>
   <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="45" alt="Arduino"></a>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c" width="45" alt="C">
@@ -199,7 +191,7 @@
 </div>
 
 <div align="left">
-  <h3>🎨 UI/UX Design:</h3>
+  <h3>🎨 การออกแบบประสบการณ์ผู้ใช้</h3>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"></a>
   &nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html"><img src="https://skillicons.dev/icons?i=xd" width="45" alt="Adobe XD"></a>
@@ -210,7 +202,7 @@
 </div>
 
 <div align="left">
-  <h3>📬 Contact Information:</h3>
+  <h3>📬 ช่องทางการติดต่อ</h3>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=James28Dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/earg0728"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="45" alt="Facebook"></a>
