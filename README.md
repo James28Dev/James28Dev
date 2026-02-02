@@ -1,163 +1,291 @@
-<h3 align="center">ยินดีต้อนรับเข้าสู่ GitHub</h3>
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อนายธนพัต สุวรรณเจริญ</h1>
+<div align="center">
+  <h3>ยินดีต้อนรับเข้าสู่ GitHub</h3>
+  <h1>สวัสดีครับ 👋 ผมชื่อนายธนพัต สุวรรณเจริญ</h1>
+</div>
 
-## 🧑‍💻 ข้อมูลเบื้องต้น:
+<!-- Nav Language String -->
+<!-- <p align="right">
+  <strong>🌐 Language:</strong>
+  <a href="./README.md">ภาษาไทย</a> | 
+  <a href="./README_EN.md">English</a>
+</p> -->
 
-**ผมสนใจการเขียนโปรแกรมตั้งแต่ปี พ.ศ. 2558 และเริ่มศึกษาอย่างจริงจังในปี พ.ศ. 2561 โดยเริ่มต้นจาก HTML เป็นภาษาแรก**
+<!-- Nav Language Shields -->
+<div align="right">
+  <a href="./README_EN.md">
+    <img src="https://img.shields.io/badge/English-US-blue?style=for-the-badge&logo=google-translate&logoColor=white" height="25" alt="Switch Languages">
+  </a>
+</div>
 
-- 🎓 ผมเป็นนักศึกษาสาขาวิทยาการคอมพิวเตอร์ | คณะวิทยาศาสตร์และเทคโนโลยี | มหาวิทยาลัยราชภัฎสงขลา
-- 🎓 เคยศึกษาสาขาเทคโนโลยีธุรกิจดิจิทัล | วิทยาลัยอาชีวศึกษาสงขลา
-- 🛠️ เคยฝึกงานที่ร้านไนน์ตี้ไนน์คอมแอนด์ไอทีเซอร์วิสสะเดา 3 เดือน | บริษัท บ้านคอมพิวเตอร์ แอดวานซ์ เซอร์วิส จำกัด 3 เดือน
-- 💡 สนใจผลิตโปรแกรม Cross-Platform, Mobile application และ Games
+<div align="left">
+  <h2>🧑‍💻 ข้อมูลเบื้องต้น:</h2>
+  <p>
+    <strong>
+    ผมสนใจการเขียนโปรแกรมตั้งแต่ปี พ.ศ. 2558 และเริ่มศึกษาอย่างจริงจังในปี พ.ศ. 2561 โดยเริ่มต้นจาก HTML เป็นภาษาแรก
+    </strong>
 
-## 🌱 ความสนใจหลัก
+  - 🎓 ผมเป็นนักศึกษาสาขาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยราชภัฎสงขลา
+  - 🎓 เคยศึกษาสาขาเทคโนโลยีธุรกิจดิจิทัล วิทยาลัยอาชีวศึกษาสงขลา
+  - 🛠️ เคยฝึกงานที่ร้านไนน์ตี้ไนน์คอมแอนด์ไอทีเซอร์วิสสะเดา 3 เดือน และบริษัทบ้านคอมพิวเตอร์แอดวานซ์เซอร์วิสจำกัด 3 เดือน
+  - 💡 สนใจผลิตโปรแกรม Cross-Platform, Mobile application และ Games
+  </p>
+</div>
 
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-&nbsp;
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-&nbsp;
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+<dev align="left">
+  <h2>🌱 ความสนใจหลัก:</h2>
 
-## 🚀 ทักษะและความเชี่ยวชาญ
+  <!-- new icons -->
+  <a href="https://dart.dev/">
+  <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart">
+  </a>
+  <a href="https://flutter.dev/">
+  <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter">
+  </a>
+  <a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
+  </a>
 
-### 🧩 ภาษาโปรแกรมหลัก
+  <!-- old icon -->
+  <!-- <a href="https://dart.dev/">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
+  <a href="https://flutter.dev/">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  </a>
+  <a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"> -->
+  </a>
+</dev>
 
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
-&nbsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-&nbsp;
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-&nbsp;
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-&nbsp;
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-&nbsp;
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-&nbsp;
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-&nbsp;
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-&nbsp;
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<dev align="left">
+  <h2>🚀 ทักษะและความเชี่ยวชาญ:</h2>
+  <h3>🧩 ภาษาโปรแกรมหลัก</h3>
 
-### 🕸️ การพัฒนาเว็บ
+  <img src="https://skillicons.dev/icons?i=c" width="45" alt="C">
+  <a href="https://isocpp.org/">
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++">
+  </a>
+  <a href="https://oracle.com/java/">
+  <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java">
+  </a>
+  <a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
+  </a>
+  <a href="https://cran.r-project.org/">
+  <img src="https://skillicons.dev/icons?i=r" width="45" alt="R">
+  </a>
+  <a href="https://dart.dev/">
+  <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart">
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/">
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML">
+  </a>
+  <a href="ttps://www.w3.org/Style/CSS/">
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript">
+  </a>
+  <a href="https://mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">
+  </a>
+</dev>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-&nbsp;
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
-&nbsp;
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-&nbsp;
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-&nbsp;
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-&nbsp;
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-&nbsp;
-[![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)](https://ejs.co/)
-&nbsp;
-[![Dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=white)](https://www.npmjs.com/package/dotenv)
-&nbsp;
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-&nbsp;
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### 📱 การพัฒนาแอปพลิเคชันมือถือ
+<dev align="left">
+  <h3>🕸️ การพัฒนาเว็บ</h3>
+  <a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/">
+  <img src="https://skillicons.dev/icons?i=flask" width="45" alt="Flask">
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/">
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML">
+  </a>
+  <a href="ttps://www.w3.org/Style/CSS/">
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript">
+  </a>
+  <a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="NodeJS">
+  </a>
+  <a href="https://www.npmjs.com">
+  <img src="https://skillicons.dev/icons?i=npm" width="45" alt="NPM">
+  </a>
+  <a href="https://expressjs.com/">
+  <img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js">
+  </a>
+  <a href="https://ejs.co/">
+  <img src="https://cdn.simpleicons.org/ejs/B4CA65" width="45" alt="EJS">
+  </a>
+  <a href="https://www.npmjs.com/package/dotenv">
+  <img src="https://cdn.simpleicons.org/dotenv/ECD53F" width="45" alt=".ENV">
+  </a>
+  <a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">
+  </a>
+  <a href="https://mariadb.org/">
+  <img src="https://cdn.simpleicons.org/mariadb/003545" width="45" alt="MariaDB">
+  </a>
+  <a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB">
+  </a>
+</dev>
 
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-&nbsp;
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+<dev align="left">
+  <h3>📱 การพัฒนาแอปพลิเคชันมือถือ</h3>
+<a href="https://dart.dev/">
+  <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart">
+  </a>
+  <a href="https://flutter.dev/">
+  <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter">
+  </a>
+</dev>
 
-### 📊 ปัญญาประดิษฐ์และข้อมูล
+<dev align="left">
+  <h3>📊 ปัญญาประดิษฐ์และข้อมูล</h3>
+  <a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
+  </a>
+  <a href="https://cran.r-project.org/">
+  <img src="https://skillicons.dev/icons?i=r" width="45" alt="R">
+  </a>
+  <a href="https://pandas.pydata.org/">
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="45" alt="Pandas">
+  </a>
+  <a href="https://plotly.com/">
+  <img src="https://cdn.simpleicons.org/plotly/7A76FF" width="45" alt="Plotly">
+  </a>
+  <a href="https://numpy.org/">
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="45" alt="Numpy">
+  </a>
+  <a href="https://scikit-learn.org">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" alt="Scikit learn">
+  </a>
+  <a href="https://colab.research.google.com/">
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" alt="Google Colab">
+  </a>
+</dev>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-&nbsp;
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-&nbsp;
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-&nbsp;
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-&nbsp;
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-&nbsp;
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-&nbsp;
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-&nbsp;
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+<dev align="left">
+  <h3>🐧 ระบบปฏิบัติการและโครงสร้าง</h3>
+  <a href="https://linuxmint.com/">
+  <img src="https://skillicons.dev/icons?i=mint" width="45" alt="Linux Mint">
+  </a>
+  <a href="https://ubuntu.com/">
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="45" alt="Ubuntu">
+  </a>
+  <a href="https://fedoraproject.org/">
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" width="45" alt="Fedora">
+  </a>
+  <a href="https://manjaro.org/">
+  <img src="https://cdn.simpleicons.org/manjaro/35BFA4" width="45" alt="Manjaro">
+  </a>
+  <a href="https://zorin.com/">
+  <img src="https://cdn.simpleicons.org/zorin/15A6F0" width="45" alt="Zorin">
+  </a>
+  <a href="https://www.debian.org/">
+  <img src="https://skillicons.dev/icons?i=debian" width="45" alt="Debian">
+  </a>
+  <a href="https://archlinux.org/">
+  <img src="https://skillicons.dev/icons?i=arch" width="45" alt="Arch Linux">
+  </a>
+  <a href="https://nixos.org/">
+  <img src="https://skillicons.dev/icons?i=nix" width="45" alt="NixOS">
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/">
+  <img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows">
+  </a>
+</dev>
 
-### 🎮 การพัฒนาเกม
+<dev align="left">
+  <h3>⚙️ การบริหารจัดการระบบและคลาวด์</h3>
+  <a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git">
+  </a>
+  <a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="45" alt="Visual Studio">
+  </a>
+  <a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="Visual Studio Code">
+  </a>
+  <a href="https://vscodium.com/">
+  <img src="https://skillicons.dev/icons?i=vscodium" width="45" alt="vscodium">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+  <img src="https://skillicons.dev/icons?i=pycharm" width="45" alt="PyCharm">
+  </a>
+  <a href="https://app.diagrams.net/">
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="45" alt="Diagrams.net">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+  <img src="https://skillicons.dev/icons?i=powershell" width="45" alt="Power Shell">
+  </a>
+  <a href="https://help.gnome.org/gnome-terminal/">
+  <img src="https://cdn.simpleicons.org/gnometerminal/241F31" width="45" alt="Gnome Terminal">
+  </a>
+  <a href="https://www.nano-editor.org/">
+  <img src="https://cdn.simpleicons.org/nano/209CE9" width="45" alt="Nano">
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" alt="Bash Shell">
+  </a>
+  <a href="https://www.zsh.org/">
+  <img src="https://cdn.simpleicons.org/zsh/F15A24" width="45" alt="Zsh Shell">
+  </a>
+  <a href="https://fishshell.com/">
+  <img src="https://cdn.simpleicons.org/fishshell/34C534" width="45" alt="Fish Shell">
+  </a>
+  <a href="https://www.vim.org/">
+  <img src="https://skillicons.dev/icons?i=vim" width="45" alt="Vim">
+  </a>
+  <a href="https://neovim.io/">
+  <img src="https://skillicons.dev/icons?i=neovim" width="45" alt="NeoVim Shell">
+  </a>
+</dev>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-&nbsp;
-[![Pygame](https://img.shields.io/badge/Pygame-ED1C24?style=for-the-badge&logo=pygame&logoColor=white)](https://www.pygame.org/)
+<dev align="left">
+  <h3>⚡ อินเทอร์เน็ตของสรรพสิ่งและระบบสมฝังตัว</h3>
+  <a href="https://www.arduino.cc/">
+  <img src="https://skillicons.dev/icons?i=arduino" width="45" alt="Arduino">
+  </a>
+  <img src="https://skillicons.dev/icons?i=c" width="45" alt="C">
+  <a href="https://isocpp.org/">
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++">
+  </a>
+</dev>
 
-### 🐧 ระบบปฏิบัติการและโครงสร้าง
+<dev align="left">
+  <h3>🎨 การออกแบบประสบการณ์ผู้ใช้</h3>
+  <a href="https://www.figma.com/">
+  <img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma">
+  </a>
+  <a href="https://www.adobe.com/products/xd.html">
+  <img src="https://skillicons.dev/icons?i=xd" width="45" alt="Adobe XD">
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://skillicons.dev/icons?i=photoshop" width="45" alt="Adobe Photoshop">
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+  <img src="https://skillicons.dev/icons?i=ai" width="45" alt="Adobe illustrator">
+  </a>
+</dev>
 
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com/)
-&nbsp;
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-&nbsp;
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
-&nbsp;
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org/)
-&nbsp;
-[![EndeavourOS](https://img.shields.io/badge/EndeavourOS-1793D1?style=for-the-badge&logo=endeavouros&logoColor=white)](https://endeavouros.com/)
-&nbsp;
-[![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/)
-&nbsp;
-[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-&nbsp;
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/)
-
-### ⚙️ การบริหารจัดการระบบและคลาวด์
-
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-&nbsp;
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-&nbsp;
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-&nbsp;
-[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/th-th/windows/terminal/)
-&nbsp;
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-&nbsp;
-[![Nano](https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white)](https://www.nano-editor.org/)
-&nbsp;
-[![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-&nbsp;
-[![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](https://www.zsh.org/)
-&nbsp;
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-
-### ⚡ อินเทอร์เน็ตของสรรพสิ่งและระบบสมฝังตัว
-
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-&nbsp;
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
-&nbsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-
-### 🎨 การออกแบบประสบการณ์ผู้ใช้
-
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-&nbsp;
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.adobe.com/products/xd.html)
-&nbsp;
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-
-## 📬 ช่องทางการติดต่อ
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/earg0728)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/james._.su/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=James28Dev@gmail.com)
+<dev align="left">
+  <h3>📬 ช่องทางการติดต่อ</h3>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=James28Dev@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail">
+  </a>
+  <a href="https://www.facebook.com/earg0728">
+  <img src="https://cdn.simpleicons.org/facebook/0866FF" width="45" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/james._.su/">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram">
+  </a>
+</dev>
