@@ -31,18 +31,16 @@
   </p>
 </div>
 
-<dev align="left">
+<div align="left">
   <h2>🌱 ความสนใจหลัก:</h2>
 
   <!-- new icons -->
   <a href="https://dart.dev/">
   <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart">
   </a>
-  &nbsp;&nbsp;
   <a href="https://flutter.dev/">
   <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
   </a>
@@ -51,34 +49,28 @@
   <!-- <a href="https://dart.dev/">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </a>
-  &nbsp;&nbsp;
   <a href="https://flutter.dev/">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"> -->
   </a>
 </dev>
 
-<dev align="left">
+<div align="left">
   <h2>🚀 ทักษะและความเชี่ยวชาญ:</h2>
   <h3>🧩 ภาษาโปรแกรมหลัก</h3>
 
   <img src="https://skillicons.dev/icons?i=c" width="45" alt="C">
-  &nbsp;&nbsp;
   <a href="https://isocpp.org/">
   <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++">
   </a>
-  &nbsp;&nbsp;
   <a href="https://oracle.com/java/">
   <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
   </a>
-  &nbsp;&nbsp;
   <a href="https://cran.r-project.org/">
   <img src="https://skillicons.dev/icons?i=r" width="45" alt="R">
   </a>
@@ -91,7 +83,7 @@
   <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML">
   </a>
   &nbsp;&nbsp;
-  <a href="ttps://www.w3.org/Style/CSS/">
+  <a href="https://www.w3.org/Style/CSS/">
   <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS">
   </a>
   &nbsp;&nbsp;
@@ -102,10 +94,10 @@
   <a href="https://mysql.com/">
   <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">
   </a>
-</dev>
+</div>
 
 
-<dev align="left">
+<div align="left">
   <h3>🕸️ การพัฒนาเว็บ</h3>
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
@@ -146,9 +138,9 @@
   <a href="https://www.mongodb.com/">
   <img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB">
   </a>
-</dev>
+</div>
 
-<dev align="left">
+<div align="left">
   <h3>📱 การพัฒนาแอปพลิเคชันมือถือ</h3>
 <a href="https://dart.dev/">
   <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart">
@@ -156,9 +148,9 @@
   <a href="https://flutter.dev/">
   <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter">
   </a>
-</dev>
+</div>
 
-<dev align="left">
+<div align="left">
   <h3>📊 ปัญญาประดิษฐ์และข้อมูล</h3>
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
@@ -181,9 +173,9 @@
   <a href="https://colab.research.google.com/">
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" alt="Google Colab">
   </a>
-</dev>
+</div>
 
-<dev align="left">
+<div align="left">
   <h3>🐧 ระบบปฏิบัติการและโครงสร้าง</h3>
   <a href="https://linuxmint.com/">
   <img src="https://skillicons.dev/icons?i=mint" width="45" alt="Linux Mint">
@@ -212,9 +204,9 @@
   <a href="https://www.microsoft.com/en-us/windows/">
   <img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows">
   </a>
-</dev>
+</div>
 
-<dev align="left">
+<div align="left">
   <h3>⚙️ การบริหารจัดการระบบและคลาวด์</h3>
   <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git">
@@ -261,9 +253,9 @@
   <a href="https://neovim.io/">
   <img src="https://skillicons.dev/icons?i=neovim" width="45" alt="NeoVim Shell">
   </a>
-</dev>
+</div>
 
-<dev align="left">
+<div align="left">
   <h3>⚡ อินเทอร์เน็ตของสรรพสิ่งและระบบสมฝังตัว</h3>
   <a href="https://www.arduino.cc/">
   <img src="https://skillicons.dev/icons?i=arduino" width="45" alt="Arduino">
@@ -272,9 +264,9 @@
   <a href="https://isocpp.org/">
   <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++">
   </a>
-</dev>
+</div>
 
-<dev align="left">
+<div align="left">
   <h3>🎨 การออกแบบประสบการณ์ผู้ใช้</h3>
   <a href="https://www.figma.com/">
   <img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma">
@@ -288,9 +280,9 @@
   <a href="https://www.adobe.com/products/illustrator.html">
   <img src="https://skillicons.dev/icons?i=ai" width="45" alt="Adobe illustrator">
   </a>
-</dev>
+</div>
 
-<dev align="left">
+<div align="left">
   <h3>📬 ช่องทางการติดต่อ</h3>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=James28Dev@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail">
@@ -301,4 +293,4 @@
   <a href="https://www.instagram.com/james._.su/">
   <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram">
   </a>
-</dev>
+</div>
