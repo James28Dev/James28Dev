@@ -12,7 +12,7 @@
 
 <!-- Nav Language Shields -->
 <div align="right">
-  <a href="./README_TH.md"><img src="https://img.shields.io/badge/English-TH-blue?style=for-the-badge&logo=google-translate&logoColor=white" height="30" alt="Switch Languages"></a>
+  <a href="./README_TH.md"><img src="https://img.shields.io/badge/English-TH-red?style=for-the-badge&logo=google-translate&logoColor=white" height="30" alt="Switch Languages"></a>
 </div>
 
 <div align="left">
