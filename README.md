@@ -168,6 +168,8 @@
   &nbsp;&nbsp;
   <a href="https://vscodium.com/"><img src="https://skillicons.dev/icons?i=vscodium" width="45" alt="vscodium"></a>
   &nbsp;&nbsp;
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="45" alt="Android Studio"></a>
+  &nbsp;&nbsp;
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" alt="PyCharm"></a>
   &nbsp;&nbsp;
   <a href="https://app.diagrams.net/"><img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="45" alt="Diagrams.net"></a>
