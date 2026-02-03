@@ -180,7 +180,7 @@
   &nbsp;&nbsp;
   <a href="https://www.nano-editor.org/"><img src="https://cdn.simpleicons.org/nano/209CE9" width="45" alt="Nano"></a>
   &nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" alt="Bash Shell"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="45" alt="Bash Shell"></a>
   &nbsp;&nbsp;
   <a href="https://www.zsh.org/"><img src="https://cdn.simpleicons.org/zsh/F15A24" width="45" alt="Zsh Shell"></a>
   &nbsp;&nbsp;
